@@ -1,0 +1,146 @@
+- Weather Scenario: "Warning: Heavy Rain Level - High Danger"
+  Warning Text Advice: |
+    Behavior Tips
+    Be cautious around streams and rivers! There is a high to extreme risk of flooding!
+    Stay informed through the media about potential instructions from authorities and possible evacuations.
+    In the vicinity of water bodies, if water levels are rapidly rising, move to higher floors. Keep an eye on the situation and water levels near your house if it is still safe to do so, and observe from a safe distance.
+    Do not go into the basement if water is entering your home.
+    Do not cross flooded streets and paths; even a small amount of water can carry people away if the current is strong.
+    Do not drive your vehicle through flooded road sections; the depth of the water is often underestimated.
+    If water has not yet entered your house, move valuables to higher floors. Do not endanger yourself in any way!
+
+    Impacts
+    Intense heavy and/or continuous rain can result in very large amounts of precipitation in your region.
+    Caution: The precipitation can cause high to exceptional flooding in rivers and streams.
+    Rivers and streams can swell rapidly and very strongly within a short time, increasing the risk of flash floods.
+    Many roads can become flooded and numerous basements can fill with water.
+    Especially towns in valleys and depressions can be extensively flooded.
+  Warning Level: extreme
+  Location: Berlin, Germany
+  Climate: City, Continental
+  Temperature: 25°C
+  Wind Speed: 80 km/h
+
+- Weather Scenario: "Warning: Gusts 10m Level - Severe Danger"
+  Warning Text Advice: |
+    Behavior Tips
+    Secure any loose objects outdoors such as furniture, trash bins, and decorations to prevent them from being blown away or causing damage.
+    Avoid outdoor activities, especially in open areas, to reduce the risk of being struck by flying debris.
+    If you are driving, be extra cautious as gusts can make it difficult to control your vehicle. Slow down and keep a firm grip on the steering wheel.
+    Stay indoors and away from windows to avoid injury from broken glass or flying objects.
+
+    Impacts
+    Severe gusts of wind can cause significant damage to structures, trees, and vehicles.
+    Power outages are possible due to downed power lines.
+    Flying debris can pose a serious risk to people and animals outdoors.
+    Expect disruptions in transportation and possible delays or cancellations of outdoor events.
+  Warning Level: severe
+  Location: Hamburg, Germany
+  Climate: Coastal, Temperate
+  Temperature: 18°C
+  Wind Speed: 120 km/h
+
+- Weather Scenario: "Warning: Snow Level - High Danger"
+  Warning Text Advice: |
+    Behavior Tips
+    Stay informed about weather updates and road conditions through local media.
+    Avoid unnecessary travel, especially in areas prone to heavy snow accumulation.
+    If you must travel, ensure your vehicle is equipped with winter tires, and carry an emergency kit with food, water, and blankets.
+    Keep walkways and driveways clear of snow and ice to prevent slips and falls.
+    Wear appropriate winter clothing to protect yourself from the cold.
+
+    Impacts
+    Heavy snowfall can lead to significant snow accumulation, making travel difficult or impossible.
+    Roads can become slippery and treacherous, increasing the risk of accidents.
+    Power outages may occur due to snow-laden branches falling on power lines.
+    Prolonged exposure to cold temperatures can lead to frostbite or hypothermia.
+  Warning Level: high
+  Location: Munich, Germany
+  Climate: Continental, Alpine
+  Temperature: -5°C
+  Wind Speed: 20 km/h
+
+- Weather Scenario: "Warning: Slippery Road Level - Moderate Danger"
+  Warning Text Advice: |
+    Behavior Tips
+    Reduce your speed and increase your following distance when driving to allow for greater stopping distances.
+    Avoid sudden braking, acceleration, and sharp turns to maintain control of your vehicle.
+    Check your tires to ensure they have adequate tread and are properly inflated.
+    Stay alert for patches of black ice, especially on bridges, overpasses, and shaded areas.
+    Consider using public transportation if available and conditions are particularly hazardous.
+
+    Impacts
+    Slippery roads can lead to an increased number of traffic accidents.
+    Pedestrians are at a higher risk of slips and falls, particularly on untreated sidewalks and pathways.
+    Delivery and emergency services may experience delays.
+  Warning Level: moderate
+  Location: Frankfurt, Germany
+  Climate: Urban, Temperate
+  Temperature: 2°C
+  Wind Speed: 15 km/h
+
+- Weather Scenario: "Warning: Thunderstorm Level - Severe Danger"
+  Warning Text Advice: |
+    Behavior Tips
+    Seek shelter indoors immediately when you hear thunder or see lightning.
+    Avoid using electrical appliances and plumbing fixtures during a storm.
+    Do not take shelter under trees or tall structures that can attract lightning strikes.
+    Stay away from windows and doors to reduce the risk of injury from broken glass or flying debris.
+    If you are caught outside, crouch low to the ground, avoiding open fields and hilltops.
+
+    Impacts
+    Severe thunderstorms can bring heavy rain, strong winds, hail, and frequent lightning strikes.
+    Lightning can cause fires, power outages, and serious injuries or fatalities.
+    Strong winds and hail can damage buildings, vehicles, and crops.
+    Flash flooding is possible, especially in low-lying areas and regions with poor drainage.
+  Warning Level: severe
+  Location: Cologne, Germany
+  Climate: Urban, Temperate
+  Temperature: 22°C
+  Wind Speed: 80 km/h
+
+- Weather Scenario: "Warning: Flash Flood Level - Extreme Danger"
+  Warning Text Advice: |
+    Behavior Tips
+    Move to higher ground immediately if you are in a flood-prone area.
+    Avoid walking or driving through floodwaters; just six inches of moving water can knock you down, and one foot can sweep your vehicle away.
+    Stay informed through local media and follow any evacuation orders issued by authorities.
+    Keep an emergency kit with food, water, and essential supplies in case you need to evacuate quickly.
+    Do not attempt to cross bridges if the water is flowing over them.
+
+    Impacts
+    Flash floods can occur suddenly and with little warning, leading to rapid water rise and dangerous conditions.
+    Floodwaters can cause extensive damage to homes, businesses, and infrastructure.
+    There is a high risk of drowning and injuries due to swift-moving water and debris.
+    Transportation routes can become impassable, and essential services may be disrupted.
+  Warning Level: extreme
+  Location: Dresden, Germany
+  Climate: Urban, Continental
+  Temperature: 20°C
+  Wind Speed: 40 km/h
+
+- Weather Scenario: "Warning: Heat Index Level - Extreme Danger"
+  Warning Text Advice: |
+    Behavior Tips
+    Stay indoors during the hottest part of the day, typically from late morning to early evening.
+    Drink plenty of fluids, but avoid alcohol, caffeine, and sugary drinks as they can lead to dehydration.
+    Wear lightweight, light-colored, and loose-fitting clothing to help keep cool.
+    Check on elderly neighbors, young children, and pets to ensure they are staying cool and hydrated.
+    Never leave children or pets in a parked car, even with the windows open.
+
+    Impacts
+    Extreme heat can lead to serious health issues, including heat exhaustion, heat stroke, and dehydration.
+    High temperatures can exacerbate existing health conditions, particularly for the elderly and those with chronic illnesses.
+    Power demand for air conditioning can lead to power outages and strain on the electrical grid.
+    Outdoor activities and work can become dangerous, leading to heat-related illnesses.
+  Warning Level: extreme
+  Location: Berlin, Germany
+  Climate: Urban, Continental
+  Temperature: 35°C
+  Wind Speed: 10 km/h
+
+
+
+
+
+

@@ -1,0 +1,121 @@
+Title: "Flooded Streets of Berlin"
+Character: "Aaliyah"
+Scenario: "Rain"
+Storyline:
+- Chapter: 1
+  Title: "The Introduction"
+  Music: "call_to_adventure.mp3"
+  Effects: "soft_rain.mp3"
+  Narrative: |
+    Aaliyah is working late in her Berlin apartment, putting the finishing touches on her latest robotics project. Her parrot, Circuit, squawks from his perch, sensing the tension in the air. The news on her tablet blares a severe weather warning: heavy rain and high winds are expected to hit Berlin, causing extreme flooding. Aaliyah's phone buzzes with a message from her younger brother, Liam, asking if she’s aware of the situation. 
+    Suddenly, the lights flicker, and a loud rumble shakes the building as the storm begins.
+  Choices:
+  - Id: 1
+    Text: "Secure all her gadgets and head to a higher floor."
+    Points: 2
+    Continue: "Aaliyah quickly gathers her most important gadgets and heads to the second floor. Circuit flaps nervously as she secures him in his cage. From the window, she can see the streets beginning to flood. She receives another message from Liam, who is stuck at work and urges her to stay safe."
+  - Id: 2
+    Text: "Go to the basement to check for leaks."
+    Points: 1
+    Continue: "Aaliyah grabs a flashlight and heads to the basement. As she steps down, she notices water seeping through the walls. Realizing the danger, she rushes back upstairs. Circuit squawks louder, sensing her anxiety. A message from Liam pops up, advising her to stay away from the basement." 
+  - Id: 3
+    Text: "Ignore the warning and continue working."
+    Points: 0
+    Continue: "Aaliyah decides to ignore the warning and focus on her project. Circuit squawks louder, but she dismisses him. Moments later, she hears a loud crash as water starts seeping under the door. Her phone buzzes with another urgent message from Liam, pleading for her to take the situation seriously."
+
+- Chapter: 2
+  Title: "Rising Action"
+  Music: "increasing_tention.mp3"
+  Effects: "heavy_rain.mp3"
+  Narrative: |
+    The rain intensifies, pounding against the windows. Aaliyah realizes she needs to act fast to protect herself and Circuit. The water level outside is rising quickly, and she remembers the safety tips about flooding. She can hear sirens in the distance and sees flashing lights reflecting off the flooded streets.
+  Choices:
+    - Id: 1
+      Text: "Move valuables and important documents to higher floors."
+      Points: 2
+      Continue: "Aaliyah rushes to gather her valuables and important documents, moving them to the highest floor of her apartment. She secures Circuit's cage and makes sure he is safe. The water outside continues to rise, but she feels more prepared for the situation."
+    - Id: 2
+      Text: "Stay by the window to monitor the water levels."
+      Points: 1
+      Continue: "Aaliyah stays by the window, keeping a close eye on the water levels. She watches as the streets become rivers, and the situation looks increasingly dire. Circuit squawks anxiously, and Aaliyah feels a pang of fear but tries to stay calm."
+    - Id: 3
+      Text: "Go outside to get a better view of the situation."
+      Points: 0
+      Continue: "Ignoring the danger, Aaliyah decides to step outside for a better view. The rain drenches her instantly, and she can barely see through the downpour. She quickly realizes the mistake as the water is higher and moving faster than she anticipated. She struggles back inside, soaked and shivering."
+
+- Chapter: 3
+  Title: "The Turning Point"
+  Music: "rising_action.mp3"
+  Effects: "thunder.mp3"
+  Narrative: |
+    The flooding worsens, and the power goes out, plunging Aaliyah's apartment into darkness. She can hear the water rushing below and knows she needs to make a critical decision. Liam sends another message, telling her to be careful and reminding her of the emergency supplies she has.
+  Choices:
+    - Id: 1
+      Text: "Use her phone's flashlight and gather emergency supplies."
+      Points: 2
+      Continue: "Aaliyah uses her phone's flashlight to navigate the dark apartment. She gathers her emergency supplies, including water, food, and a first-aid kit. She secures Circuit and makes sure they have everything they need to wait out the storm safely."
+    - Id: 2
+      Text: "Light some candles and try to calm down."
+      Points: 1
+      Continue: "Aaliyah finds some candles and lights them, creating a calming atmosphere. She takes a few deep breaths, trying to steady her nerves. The flickering light makes everything seem more manageable, but she knows she still needs to be prepared for the worst."
+    - Id: 3
+      Text: "Try to fix the electrical problem."
+      Points: 0
+      Continue: "Aaliyah decides to try fixing the electrical problem herself. She fumbles in the dark, looking for her tools. As she tinkers with the fuse box, she realizes she's in over her head and gives up, frustrated and worried."
+
+- Chapter: 4
+  Title: "The Climax"
+  Music: "facing_the_fury.mp3"
+  Effects: "thunder.mp3"
+  Narrative: |
+    The water level reaches a critical point, and the lower floors of the building start flooding. Aaliyah hears a loud crash as something outside gives way to the force of the water. She knows it's now or never to ensure their safety.
+  Choices:
+    - Id: 1
+      Text: "Move to the highest floor and block the door with furniture."
+      Points: 2
+      Continue: "Aaliyah grabs Circuit and moves to the highest floor, barricading the door with heavy furniture. She feels a sense of urgency but tries to stay calm. The noise of the storm is deafening, but she knows she's done everything she can to stay safe."
+    - Id: 2
+      Text: "Try to contact emergency services for help."
+      Points: 1
+      Continue: "Aaliyah tries calling emergency services, but the lines are busy. She sends a message to Liam, updating him on the situation. She feels anxious but relieved to have communicated with someone. Circuit's presence helps her stay grounded."
+    - Id: 3
+      Text: "Attempt to leave the building and reach higher ground."
+      Points: 0
+      Continue: "Against better judgment, Aaliyah decides to leave the building. She steps into the flooded hallway, struggling against the rising water. Circuit flaps in his cage, and Aaliyah realizes too late that it's too dangerous. She retreats back to her apartment, soaked and scared."
+
+- Chapter: 5
+  Title: "Falling Action"
+  Music: "the_aftermath.mp3"
+  Effects: "soft_rain.mp3"
+  Narrative: |
+    The storm begins to subside, and the water levels start to recede. Aaliyah remains vigilant, ensuring Circuit is safe and their supplies are intact. Liam's messages offer comfort, and she feels a sense of relief as the worst of the storm seems to be over.
+  Choices:
+    - Id: 1
+      Text: "Stay in the secured room and wait for official updates."
+      Points: 2
+      Continue: "Aaliyah stays in the secured room, periodically checking for updates on her phone. She feels a sense of relief as emergency services report that the floodwaters are receding. Circuit chirps softly, sensing the calmer atmosphere. Aaliyah knows they are safe for now."
+    - Id: 2
+      Text: "Begin cleaning up the flooded areas."
+      Points: 1
+      Continue: "As the water recedes, Aaliyah starts cleaning up the flooded areas. She carefully moves wet items to dry places and tries to salvage what she can. The effort is exhausting, but she feels proactive and determined to restore her home."
+    - Id: 3
+      Text: "Go outside to assess the damage."
+      Points: 0
+      Continue: "Aaliyah decides to go outside and assess the damage. The streets are littered with debris, and the destruction is overwhelming. She realizes that cleanup will take a long time and feels disheartened. However, seeing her neighbors working together gives her a glimmer of hope."
+
+- Chapter: 6
+  Title: "The Conclusion"
+  Music: "the_new_dawn.mp3"
+  Effects: "city_ambience.mp3"
+  Narrative: |
+    The storm has passed, and emergency services are helping those affected by the flooding. Aaliyah reflects on the ordeal, grateful for her preparedness and resourcefulness. Liam finally arrives, and they embrace, relieved to be safe. Circuit chirps happily, and Aaliyah knows they made it through the worst together.
+  Choices: 
+    - Id: 1
+      Text: "End the story."
+      Points: 0
+      Continue: ""
+
+Score Summary:
+  - Points 10-12: "Excellent! You were well-prepared and made the best choices to stay safe."
+  - Points 6-9: "Good job! You handled the situation well, but there’s room for improvement."
+  - Points 0-5: "You survived"
